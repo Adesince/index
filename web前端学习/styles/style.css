@@ -19,3 +19,11 @@ td {
 .blue{
 	background-color: rgb(172,201,221);
 }
+.tel a:link,
+.mail a:link{
+	text-decoration: none;
+}
+.tel a:hover,
+.mail a:hover{
+	color: rgb(255,152,0);
+}
