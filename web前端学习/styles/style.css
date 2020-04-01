@@ -1,0 +1,17 @@
+table{
+	width: 600px;
+	margin:30px auto;
+	border: 1px solid rgb(172,201,221);
+	border-collapse: collapse;
+	text-align: center;
+}
+h1 {
+    font-size: 32px;
+}
+td {
+	border: 1px solid rgb(172,201,221);
+    font:italic lighter 20px "微软雅黑";
+}
+.blue{
+	background-color: rgb(172,201,221);
+}
